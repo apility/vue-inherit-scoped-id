@@ -1,12 +1,12 @@
 {
-  "name": "@apility/webpack-library-template",
+  "name": "@apility/vue-inherit-scoped-id",
   "version": "1.0.0",
   "scripts": {
     "build": "webpack --mode=production",
     "lint": "eslint src/**/*.js"
   },
-  "main": "dist/webpack-library-template.js",
-  "repository": "https://github.com/apility/webpack-library-template",
+  "main": "dist/vue-inherit-scoped-id.js",
+  "repository": "https://github.com/apility/vue-inherit-scoped-id",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.5.5",

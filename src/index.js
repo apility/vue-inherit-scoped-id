@@ -1,1 +1,1 @@
-export { default } from './WebpackLibraryTemplate'
+export { default } from './vueInheritScopedId'

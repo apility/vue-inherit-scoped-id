@@ -8,8 +8,8 @@ module.exports = {
 
   output: {
     path: resolve(__dirname, 'dist'),
-    filename: 'webpack-library-template.js',
-    library: 'WebpackLibraryTemplate',
+    filename: 'vue-inherit-scoped-id.js',
+    library: 'VueInheritScopedId',
     libraryTarget: 'umd',
   },
 
